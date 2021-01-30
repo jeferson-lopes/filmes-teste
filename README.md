@@ -18,3 +18,6 @@ CODE 8: RENEGADOS - http://ustream.pw/embed/21da18b88d0fbc345f1fd353d794895f
 
 CIRCULO DE FOGO: - https://www652.ff-02.com/token=zyDKNjwTTnOw3XXcNJkjvg/1611688136/138.255.0.0/100/6/b2/71d9119f97a703b8ad17807b09c83b26-720p.mp4
 
+Kong: A Ilha da Caveira - https://www121.ff-01.com/token=qEw2IMw9Zixn67XN0ic44w/1612051925/138.255.0.0/67/f/06/5bfb9c5eefa018d1d2a963b97ccaf06f-720p.mp4
+
+Godzilla II: Rei dos Monstros - https://www2146.ff-05.com/token=8gKM9nEINs7ICSegjb40Zg/1612052458/138.255.0.0/65/1/92/03fa0b8bd3b71b3fe57b35666d9f4921-720p.mp4
