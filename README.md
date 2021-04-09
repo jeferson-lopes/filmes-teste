@@ -1,6 +1,5 @@
 # filmes-teste
-
-http://gofilmes.me/play/hd.php?63313d6cb36fd59852414f270cad17e1
+King Kong vs Godzilla - https://player.filmesonlinetv.org/public/dist/index.html?id=5d1ac3d81d3a4f2b0e0d6305c61e29fd
 
 Liga da Justiça de Zack Snyder - https://lbsuper3.sfplayer.net/public/dist/index.html?id=3c101df9d597549152e967cf8174860c
 
