@@ -1,7 +1,11 @@
 # filmes-teste
 King Kong vs Godzilla - https://player.filmesonlinetv.org/public/dist/index.html?id=5d1ac3d81d3a4f2b0e0d6305c61e29fd
 
-Liga da Justiça de Zack Snyder - https://lbsuper3.sfplayer.net/public/dist/index.html?id=3c101df9d597549152e967cf8174860c
+Liga da Justiça de Zack Snyder - https://www.onifile.com/e/source/a544c9289ed7d0444a5457bd9fc616ee/27044
+
+MONSTER HUNTER - https://fs6.sstrge.online/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTYxODc1NjkzNTtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM3OiIvdmlkZW9zLzI5NTAwMC8yOTUyNTYvMjk1MjU2XzM2MHAubXA0IjtzOjI6ImN2IjtzOjMyOiJkZjFjOGI4ZTVjODk0YmI5MjI0YzFkNTRlZjU4Yzg1ZSI7fQ%3D%3D
+
+Pinóqui - https://www.secvideo1.online/get_file/5/0bebbc0852560cc1476ec8ea0f7faf9d18d113c4ac/295000/295949/295949_360p.mp4/
 
 SONIC - http://ustream.pw/embed/9ea73f1f40257a977c701d5559a24755
 
