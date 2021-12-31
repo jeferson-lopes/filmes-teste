@@ -28,3 +28,15 @@ Kong: A Ilha da Caveira - https://www121.ff-01.com/token=qEw2IMw9Zixn67XN0ic44w/
 Godzilla II: Rei dos Monstros - https://www2146.ff-05.com/token=8gKM9nEINs7ICSegjb40Zg/1612052458/138.255.0.0/65/1/92/03fa0b8bd3b71b3fe57b35666d9f4921-720p.mp4
 
 Os Croods 2: - https://www1517.ff-04.com/token=sMJyLUOW3a8kVK4T3J6mPA/1617489468/138.255.0.0/159/2/1c/00ecd95d07ec472972f9eccd7f4001c2-720p.mp4
+
+Dinossauro: - https://chrisro1.s3.us-central-1.wasabisys.com/cdn12/Dinossauro.mp4
+
+Ultimato: - https://playembeds.com/player/index.php?data=f7177163c833dff4b38fc8d2872f1ec6
+
+A Origem: - https://playembeds.com/player/index.php?data=182be0c5cdcd5072bb1864cdee4d3d6e
+
+Shang-Chi: - https://playembeds.com/player/index.php?data=170c944978496731ba71f34c25826a34
+
+10.000 AC: - https://playembeds.com/player/index.php?data=b0b183c207f46f0cca7dc63b2604f5cc
+
+Dumbo: - https://www1952.ff-04.com/token=dK5ara_WU31Gv2s7Esbo4Q/1640985855/138.255.0.0/54/e/86/3f208e9e7bef9408ca9640dfe78a586e-480p.mp4
