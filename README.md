@@ -40,3 +40,5 @@ Shang-Chi: - https://playembeds.com/player/index.php?data=170c944978496731ba71f3
 10.000 AC: - https://playembeds.com/player/index.php?data=b0b183c207f46f0cca7dc63b2604f5cc
 
 Dumbo: - https://www1952.ff-04.com/token=dK5ara_WU31Gv2s7Esbo4Q/1640985855/138.255.0.0/54/e/86/3f208e9e7bef9408ca9640dfe78a586e-480p.mp4
+
+Eternos: https://xilften.info/fullplayer.php?token=SG9UNFdSamVPNTc5UUZpRTFlbGpGWldRcDMwNlJqZGJtalhFOUNSektoRm1WWGhQdzZxVGQ4ZS9kcTJpb0RJOA==
